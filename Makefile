@@ -1,5 +1,4 @@
 INSTALL_TARGET_PROCESSES = SpringBoard
-$(TWEAK_NAME)_FRAMEWORKS = AudioToolbox
 include $(THEOS)/makefiles/common.mk
 
 TWEAK_NAME = Ahoy
