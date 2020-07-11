@@ -1,0 +1,9 @@
+Package: com.tmded.ahoy
+Name: Ahoy
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Makes my hostname actually work, like why doesn't it work bruh, like just make it work by default then this wouldn't exist.
+Maintainer: Thomas Davies
+Author: Thomas Davies
+Section: Tweaks
