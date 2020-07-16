@@ -1,4 +1,3 @@
-#include <RemoteLog.h>
 @interface SBWiFiManager : NSObject
 + (instancetype)sharedInstance;
 - (NSString *)currentNetworkName;
